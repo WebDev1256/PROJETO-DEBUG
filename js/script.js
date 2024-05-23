@@ -1,7 +1,7 @@
 
 //MENU HAMBURGUER
 //DECLARANDO A VARIAVEL E PEGANDO O  ID
-const btnMobile = document.querySelector("#btnMobile");
+const btnMobile = document.querySelector("#btnMobile"); //LINHA 4 EERADA
 //FUNÇÃO MENU
 function Menu(){
     //DECLARANDO A VARIAVEL E PEGANDO O  ID
